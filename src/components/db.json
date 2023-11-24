@@ -1,0 +1,47 @@
+
+{
+    "users": [
+      {
+        "id": 1,
+        "email": "ayan@gmail.com",
+        "username": "ayanasgerli",
+        "password": "123",
+        "friends":[]
+      },
+      {
+        "id": 2,
+        "email": "shams@gmail.com",
+        "username": "shamsasgarli",
+        "password": "Admin456",
+        "friends":[]
+      },
+      {
+        "id": 3,
+        "email": "esmerh@gmail.com",
+        "username": "esmerhasan",
+        "password": "Es12345",
+        "friends":[]
+      },
+      {
+        "id": 4,
+        "email": "rasulhuseynov@gmail.com",
+        "username": "rasul",
+        "password": "890",
+        "friends":[]
+      },
+      {
+        "id": 5,
+        "email": "sabir@gmail.com",
+        "username": "sabir",
+        "password": "q123",
+        "friends":[]
+      },
+      {
+        "id": 6,
+        "email": "fidan@gmail.com",
+        "username": "fidan",
+        "password": "q1234",
+        "friends":[]
+      }
+    ]
+  }
